@@ -1,0 +1,2 @@
+# rootserver
+manager server
